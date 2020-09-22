@@ -5,22 +5,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-En la carpeta server iniciar:
+# En la carpeta server iniciar:
   $> npm init
-Instalar:
+# Instalar:
   $> npm install express --save
   $> npm install body-parser --save
   $> npm install nodemon --save
-Inicia:
+# Inicia:
   $> npm <Project_name>
 
-Angular(Ingresa a la ruta de la creacion del proyecto):
+# Angular(Ingresa a la ruta de la creacion del proyecto):
 
-Crea un proyecto de angular con angular Cli: 
+# Crea un proyecto de angular con angular Cli: 
   $> ng new <Project_name> --routing
   
-  [Sustituir el SRC Del proyecto creado por el del repositorio]
+# [Sustituir el SRC Del proyecto creado por el del repositorio]
   
-Inicia server:
+# Inicia server:
   $> ng serve
-ir a http://localhost:4200/
+# ir a http://localhost:4200/
